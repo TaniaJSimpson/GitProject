@@ -17,7 +17,7 @@ public class Principal {
 		ArrayList array = new ArrayList();
 		List<Character> lletres = new ArrayList<>();
 		List<Integer> numeros = new ArrayList<>();
-			//CONFLICTEWEB
+			//CONFLICTEWEB!!!
 		while (car < frase.length()) {
 			com = frase.charAt(car);
 
